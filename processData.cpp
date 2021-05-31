@@ -1,14 +1,3 @@
-/* Created by Nguyen Duc Dung on 2019-09-03.
- * =========================================================================================
- * Name        : processData.cpp
- * Author      : Duc Dung Nguyen
- * Email       : nddung@hcmut.edu.vn
- * Copyright   : Faculty of Computer Science and Engineering - HCMUT
- * Description : Implementation of main features in the assignment
- * Course      : Data Structure and Algorithms - Fall 2019
- * =========================================================================================
- */
-
 #include "processData.h"
 
 
